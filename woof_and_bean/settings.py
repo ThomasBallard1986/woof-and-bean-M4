@@ -20,7 +20,7 @@ DEBUG = "DEVELOPMENT" in os.environ
 # DEBUG = True
 
 ALLOWED_HOSTS = [
-    "woof-and-bean-ci-m4-3f6e86d7432d.herokuapp.com",
+    "woof-and-bean-m4.onrender.com",
     "8000-thomasballa-woofandbean-a8jgbkmhvvs.ws-eu110.gitpod.io",
 ]
 
