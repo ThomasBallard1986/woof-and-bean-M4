@@ -1,4 +1,4 @@
-# [View The Live Project Here](https://woof-and-bean-ci-m4-3f6e86d7432d.herokuapp.com/)
+# [View The Live Project Here](https://woof-and-bean-m4.onrender.com/)
 
 ## Woof and Bean
 
@@ -156,6 +156,7 @@ Woof and Bean used HTML, CSS, Python, and Javascript
 * [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools) Was used as a debugging tool, and to help visualise the site in different screen sizes to ensure that user experience remained clean and efficient no matter the screen size.
 * [Google Fonts](https://fonts.google.com/) provided the links for the font used on the site and aided in selecting a font that is complimentary to the Woof and Bean brand.
 * [Heroku](https://www.heroku.com/?) was used in addition to GitHub as the deployment platform for this site due to the use of databases.
+* [Render.com](https://www.render.com/?) was used in addition to GitHub as the deployment platform for this site due to the use of databases.
 * [Jinja](https://jinja.palletsprojects.com/en/3.1.x/) was used as a templating language.
 * [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to test the quality and responsiveness of each page on the site.
 * [AmIResponsive!](https://ui.dev/amiresponsive) Aided in the creation of a multi-device mockup image so that I could test the appearance of the site on multiple device sizes, and provided the image seen at the beginning of this document.
